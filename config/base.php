@@ -23,12 +23,13 @@
     ),
     'video5' => 
     array (
-      0 => 'mp4',
-      1 => 'webm',
-      2 => 'mkv',
+      
     ),
     'video' => 
     array (
+      0 => 'mp4'
+      1 => 'webm'
+      2 => 'mkv',
     ),
     'video2' => 
     array (
