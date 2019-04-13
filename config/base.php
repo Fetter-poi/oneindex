@@ -98,8 +98,8 @@
       3 => 'bmp',
     ),
   ),
-  'client_secret' => 'prgvnEMID65@dgFYP558=*}',
-  'client_id' => '2be1c24b-7b06-4f35-a2fe-34bf21ff0557',
+  'client_secret' => 'nzweDRSPDK60!$kyjM649;}',
+  'client_id' => '830a30c6-7787-4d4a-8711-38fdc50d1d44',
   'redirect_uri' => 'https://ju.tn/',
   'refresh_token' => 'OAQABAAAAAACEfexXxjamQb3OeGQ4GugvNGrc1u3LRmGUi8dZ3JSLwGZOMpEFgWQmhLZ3Jnf7Wr40X5JwioJ2BcfFh-eOtU_WpE62o2IOzXmiJP3o_Ev94qsdrRCVgyqNhPjtIjHrQP5Qp3Z3YDJ6GZZzRyoTVitwr7JNxMQR91L3AVWDG7fuFkvfhtjAiwwvRSkJ-UfZY7oYcnwb6z2Hsk1xGrCklAkkZlCpC2HbxyaQSQ-Uu4feJRxJUbtuK3kx02bfauzW9G9C_hVyq9wLmOn6i7txQkdefJOdkh7iplMRda7o1BB2qIH3tq_rIClNhW3_m329OsIbuulFpvV-RhnW9n_IRcZeWNOfeD6x8YOZzpQYGMeUbkYkUN5lZRNZgPDjO80YYw0jKppDHlq1GZa-qqPM1cUfblTYlya_ugsfvV8ndyB16JySfECNCfWECoFMra3jCEg_cqjJHjkimEWzg674cjc9Ob35Zz-5Jt3Trd_LGERJH4xfKV9QLFVLToR0RynMh0tq1bAiadjZNAabunWZGMiC44oGiIQzvBy_MQK7SgndOzy-llZIstuQ4bD1kBlnPNIKA1rRAC4jFabT2tAjuIhqUN2K3hEqCq7BL0xstPs1-Z9ok-qBenbnc8uVgqKMninkYouDbAxQSkEfTIZnG8cUrHQNcjiEzLnpwdZNiQitE9xNK6T91vjQ_3LNEo94zbPcMfQkgl3_83krGScSNh9daxcB9gOqhhpPHN7pFSE3Pu47rtVqpYds0rhiJzC6ZQPGqplL6YfKzooqRJd1hTFKdSNM8FfI9ahJlzaoeGVEPSAA',
 );
