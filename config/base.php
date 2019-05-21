@@ -97,8 +97,8 @@
       3 => 'bmp',
     ),
   ),
-  'client_secret' => 'liznoATSZ42-hePYZ161~~_',
-  'client_id' => '5ff24b59-75d1-41ae-9fb3-0c3b87fff40d',
+  'client_secret' => 'qvinnpEAA75246]_rINOC#+',
+  'client_id' => '02d55389-d6dd-42ca-a7ad-1adcbd326ee9',
   'redirect_uri' => 'https://oneindex.github.io/',
   'refresh_token' => 'OAQABAAAAAADCoMpjJXrxTq9VG9te-7FX0rE8Smg-d8FSyGHQI3rJ-XHTMb8Ek_c7REsnPrieeObFakpeEfjt2k3FDoCbXnwx_fZ8XP-4uo9IQJL9_XVcoT5yBthCY0IGH4ecpW96wVcqvQAF7pUBjTizI-DimqDx4QNSCqPA_NnQE0jYu9lzYCepD1GPlHwbuZzqtFonqEKX6X_oLDRl2PDFZB0r7yh0gXEdRX5pkAuAsvpqfZ8qSkI4qcvYkpxgQ32ohGKrxGZBM49DCm64QQt9Qs7rZebymT15FMdrn3Q-OCl1P1TujB0S8MBYhWWO-zHodQje3kl1lluzhnQ7BLEDg1FWThLwDKC5oa9ErfX0cUv9NSV8h2TgK2YgSPpPoXnVQS-vAel4C60EKS3uk8OYGHWorIbKbghj7dkR3rOypF8aulNVE_1EgHeTlGDwgYC5YXyR6_r5SCK0RLukUXgQ6h5Y9PoX6OX73XYW0BXVnrlok_qmvKHPE3463Bb7CV33tKGcfZsrpTMw-Gu2Zw4yHqIYETxkEUsyd2HbQTlDwkQdqJRBwn0hWkEYjyiohD9az78OOGsUPA3l7A6GCRcjIwJfUwcCTuqqla3Auqgc-Pq3sAFZMHJ3EgqOZN9LaJcBF68TVmtJYAyIUo7UTuvzRYcSMiN4xNb3NoNuUk6H5v4Gq48-2kJNMWx-zLJ0O1J2NX_ICsg37j-92BkwQTukoAcvvfW499SebtNgFUcukmW0fkSCDUSOQ8asEWgOqMYclOvkvVTYdrsnxJ0bV1dDpLmajHVWiFQ0xWihbOOVzjDGeCeMxCAA',
 );
